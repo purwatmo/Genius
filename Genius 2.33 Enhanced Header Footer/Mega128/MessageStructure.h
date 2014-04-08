@@ -1,0 +1,40 @@
+//Message Structure
+
+struct Message99{
+       char STX;
+		char strTranNo[7];
+		char strShift[2];
+		char strDate[11];
+		char strTime[9];
+		char strIslandID[3];
+		char strFIP_ID[3];
+		char strProductID[3];
+		char strDescription[16];
+		char strPrice[9];
+		char strVolume[9];
+		char strAmount[11];
+		char strMOPType[2];
+		char strMOPName[21];
+		char strCardID[21];
+		char strCardHolder[41];
+		char strBalanceTypePrint[26];
+		char strBalance[14];
+		char strMeterVolume[14];
+		char strMeterAmount[14];
+		char strCurrentTime[20];
+		char strPrintCount[3];
+		char strPrevPoints[9];
+		char strGainPoints[9];
+		char strLoyCardID[21];
+		char strLoyCardHolder[31];
+		char strLoyCurrentPoints[9];
+		char strLoyCurrMonConsumeA[11];
+		char strLoyCurrMonConsumeV[11];
+		char strSurchargeDesc[21];
+		char strSurchargeAmount[11];
+		char strLoyRedeemPoints[9];
+		char strLoyExpiry[11];
+		char strCorporateID[21];
+		char strCorporateName[31];
+       char ETX;
+};

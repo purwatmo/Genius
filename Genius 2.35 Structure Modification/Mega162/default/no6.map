@@ -1,0 +1,705 @@
+Archive member included because of file (symbol)
+
+d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodqi4.o)
+                              no6.o (__udivmodqi4)
+d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+                              no6.o (__udivmodhi4)
+d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+                              UART.o (__udivmodsi4)
+d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+                              d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm162.o (exit)
+d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+                              no6.o (__do_copy_data)
+d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+                              no6.o (__do_clear_bss)
+d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(sprintf_p.o)
+                              no6.o (sprintf_P)
+d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                              d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(sprintf_p.o) (vfprintf)
+d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                              d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen_P)
+d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                              d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen)
+d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+                              d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (fputc)
+d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                              d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (__ultoa_invert)
+d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_prologue.o)
+                              d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(sprintf_p.o) (__prologue_saves__)
+d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_epilogue.o)
+                              d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(sprintf_p.o) (__epilogue_restores__)
+
+Allocating common symbols
+Common symbol       size              file
+
+rxPumpId            0x1               no6.o
+TDelayNextPump      0x1               no6.o
+WayneRxBuffer       0x50              no6.o
+CMDResponse         0x1               no6.o
+Com0Buffer          0x32              no6.o
+__command           0x96              no6.o
+__spi_istransmit    0x1               no6.o
+strVolume           0xa               no6.o
+ScanPumpMax         0x1               no6.o
+__spi_i             0x1               no6.o
+strSerial1          0x14              no6.o
+nSend               0x1               no6.o
+strCurrentMoney     0xa               no6.o
+CommandSeqID        0x8               no6.o
+IsRequestTransInfo  0x10              no6.o
+__spi_isstart       0x1               no6.o
+zPumpStatus         0x10              no6.o
+__command_flag      0x1               no6.o
+strUnitPrice        0xa               no6.o
+TPoolTimeout        0x1               no6.o
+__command_set       0x1               no6.o
+strSerial           0x14              no6.o
+PumpLock            0x10              no6.o
+TGradeId            0x1               no6.o
+rxNozzle            0x1               no6.o
+TimWatchSequence    0x1               no6.o
+PumpAck             0x1               no6.o
+NozzleId            0x1               no6.o
+strSend             0x14              no6.o
+__spi_ismessage     0x1               no6.o
+GradeId             0x1               no6.o
+PumpTotalizer       0xb4              no6.o
+strAmount           0xa               no6.o
+PumpStatus          0x10              no6.o
+xCRC                0x2               no6.o
+__package           0x32              no6.o
+iSend               0x1               no6.o
+strRFID             0x9               no6.o
+zDataBuffer         0xc               no6.o
+TimReceive          0x2               no6.o
+BlinkRate           0x1               no6.o
+StatusPump          0x1               no6.o
+IsRequestTotalizerInfo
+                    0x10              no6.o
+TimSend             0x2               no6.o
+NoPumpCount         0x10              no6.o
+nNoPump             0x1               no6.o
+SequenceTimeout     0x1               no6.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm162.o
+LOAD no6.o
+LOAD lcdn.o
+LOAD spi.o
+LOAD UART.o
+LOAD d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a
+LOAD d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a
+LOAD d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x3834
+ *(.vectors)
+ .vectors       0x00000000       0x70 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm162.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table
+                0x00000070       0xbc no6.o
+ *(.progmem*)
+ .progmem.data  0x0000012c       0x6b no6.o
+                0x00000198                . = ALIGN (0x2)
+ *fill*         0x00000197        0x1 00
+                0x00000198                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000198        0x0 linker stubs
+ *(.trampolines*)
+                0x00000198                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000198                __ctors_start = .
+ *(.ctors)
+                0x00000198                __ctors_end = .
+                0x00000198                __dtors_start = .
+ *(.dtors)
+                0x00000198                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000198        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm162.o
+                0x00000198                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000198        0xc d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm162.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000001a4       0x16 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+                0x000001a4                __do_copy_data
+ .init4         0x000001ba       0x10 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+                0x000001ba                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000001ca        0x8 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm162.o
+ *(.init9)
+ *(.text)
+ .text          0x000001d2        0x4 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm162.o
+                0x000001d2                __vector_22
+                0x000001d2                __vector_1
+                0x000001d2                __vector_24
+                0x000001d2                __vector_12
+                0x000001d2                __bad_interrupt
+                0x000001d2                __vector_6
+                0x000001d2                __vector_3
+                0x000001d2                __vector_23
+                0x000001d2                __vector_25
+                0x000001d2                __vector_11
+                0x000001d2                __vector_13
+                0x000001d2                __vector_7
+                0x000001d2                __vector_27
+                0x000001d2                __vector_5
+                0x000001d2                __vector_4
+                0x000001d2                __vector_9
+                0x000001d2                __vector_2
+                0x000001d2                __vector_21
+                0x000001d2                __vector_15
+                0x000001d2                __vector_8
+                0x000001d2                __vector_26
+                0x000001d2                __vector_14
+                0x000001d2                __vector_10
+                0x000001d2                __vector_16
+ .text          0x000001d6     0x2d7e no6.o
+                0x000002c2                SystemComLevel
+                0x0000030c                CRC_Wayne
+                0x00000d16                SendSPI
+                0x00001966                SendTransFlow
+                0x00001776                SendTotalizerFlow
+                0x00000442                ShiftArray
+                0x000007a4                uartGilbarco
+                0x00001ae2                FPoolingPump
+                0x000007a6                FillChar
+                0x000027ae                TerminalSend
+                0x00000f04                FWayneSendBuffer
+                0x0000043c                GetResponse
+                0x000006aa                UpdateMoney
+                0x000007c0                StartupInfo
+                0x00000b0a                StrReverse
+                0x000020ea                FPoolingPump2
+                0x00000ed2                PumpCommand
+                0x0000070e                GetReceiveLine
+                0x00000746                CharPosCopy
+                0x00000294                InitMem
+                0x000002d6                StatePrintf
+                0x0000092c                WayneOnReceive
+                0x00000ee6                WayneSendChar
+                0x000001d6                __vector_17
+                0x00000e4e                __vector_19
+                0x00000552                SaveTotalizerData
+                0x0000089c                RemZeroLead
+                0x00000f2a                FWayneSendCommand
+                0x00000428                uart_init
+                0x00000d90                SendPumpStatusFlow
+                0x000006e4                BCD2Char
+                0x00000438                GetPumpID
+                0x000006e0                FilterBCD
+                0x000007ce                AddZeroLead
+                0x00002b5c                ScanStandaloneFlow
+                0x00000d1c                SendStrSPI
+                0x00000296                GetBaudrate
+                0x000027d0                SystemSetDispenser
+                0x00000336                sys_delay
+                0x0000042a                InitSystemTimer
+                0x00002afa                main
+                0x00000338                System485
+                0x000002d8                systemAntiFreeze
+                0x000002be                GetIFType
+                0x00000b9e                GilbarcoOnReceive
+                0x000029f4                SystemInit
+                0x00000360                ExtractValue
+                0x0000039a                InitPumpData
+                0x000006f0                ShiftData
+                0x00001736                TerminalSendf
+                0x00000d76                systemMaster
+                0x00000292                DoNothing
+                0x00000444                systemServiceSPI
+                0x000006a8                OnReceive1
+                0x00000714                StrPosCopy
+                0x00000764                StrPosCopyReverse
+                0x00000708                SetReceiveLine
+                0x00000d5c                systemSlave
+                0x00002ef2                __vector_18
+                0x00002954                SystemSetSlave
+                0x00000dee                __vector_20
+                0x0000035e                WayneTestSend
+                0x00000750                HexToChar
+                0x00000dc0                SendCommandAcknoledge
+                0x00000446                SaveTransactionData
+ .text          0x00002f54        0x0 lcdn.o
+ .text          0x00002f54       0x56 spi.o
+                0x00002f98                _spi
+                0x00002fa8                _spi_command
+                0x00002f54                _spi_init
+                0x00002fa2                _spi_rx
+                0x00002f7c                _spi_enable
+                0x00002fa4                _spi_tx
+                0x00002fa6                _spi_interrupt
+ .text          0x00002faa      0x252 UART.o
+                0x00002faa                _uart_setting
+                0x0000315a                _uart_print
+                0x000030d4                _uart_init
+                0x0000312c                _uart
+                0x0000307e                _uart_baudrate
+                0x000031aa                _uart_printf
+ .text          0x000031fc        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text          0x000031fc        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x000031fc        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x000031fc        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ .text          0x000031fc        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+ .text          0x000031fc        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+ .text          0x000031fc       0x48 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(sprintf_p.o)
+                0x000031fc                sprintf_P
+ .text          0x00003244      0x3ba d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                0x00003244                vfprintf
+ .text          0x000035fe       0x16 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                0x000035fe                strnlen_P
+ .text          0x00003614       0x16 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                0x00003614                strnlen
+ .text          0x0000362a       0x58 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+                0x0000362a                fputc
+ .text          0x00003682       0xbc d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                0x00003682                __ultoa_invert
+ .text          0x0000373e        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_prologue.o)
+ .text          0x0000373e        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_epilogue.o)
+                0x0000373e                . = ALIGN (0x2)
+ *(.text.*)
+ .text.libgcc   0x0000373e       0x18 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodqi4.o)
+                0x0000373e                __udivmodqi4
+ .text.libgcc   0x00003756       0x28 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+                0x00003756                __udivmodhi4
+ .text.libgcc   0x0000377e       0x44 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+                0x0000377e                __udivmodsi4
+ .text.libgcc   0x000037c2        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x000037c2        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x000037c2        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x000037c2       0x38 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_prologue.o)
+                0x000037c2                __prologue_saves__
+ .text.libgcc   0x000037fa       0x36 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_epilogue.o)
+                0x000037fa                __epilogue_restores__
+                0x00003830                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00003830        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+                0x00003830                exit
+                0x00003830                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00003830        0x4 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00003834                _etext = .
+
+.data           0x00800100        0xe load address 0x00003834
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm162.o
+ .data          0x00800100        0xd no6.o
+                0x00800104                stReceiveCom0
+                0x00800102                DigitSize
+                0x00800105                PumpAddr
+                0x00800101                StandaloneType
+                0x00800107                MaxAuthVolume
+                0x00800103                IsRestartPooling
+                0x00800100                IFType
+                0x0080010c                PumpTotalDigit
+                0x0080010b                PumpTransDigit
+                0x00800106                IsNoPump
+ .data          0x0080010d        0x0 lcdn.o
+ .data          0x0080010d        0x0 spi.o
+ .data          0x0080010d        0x0 UART.o
+ .data          0x0080010d        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodqi4.o)
+ .data          0x0080010d        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x0080010d        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x0080010d        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ .data          0x0080010d        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+ .data          0x0080010d        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+ .data          0x0080010d        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(sprintf_p.o)
+ .data          0x0080010d        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .data          0x0080010d        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .data          0x0080010d        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .data          0x0080010d        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .data          0x0080010d        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .data          0x0080010d        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_prologue.o)
+ .data          0x0080010d        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_epilogue.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x0080010e                . = ALIGN (0x2)
+ *fill*         0x0080010d        0x1 00
+                0x0080010e                _edata = .
+                0x0080010e                PROVIDE (__data_end, .)
+
+.bss            0x0080010e      0x329
+                0x0080010e                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x0080010e        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm162.o
+ .bss           0x0080010e       0x2d no6.o
+                0x0080011f                TimExp
+                0x00800125                MaxPumpScanned
+                0x00800121                TimDelayNextPump
+                0x00800123                Com0ReceiveCount
+                0x00800115                rxBufferLength
+                0x00800118                WayneRxSequence
+                0x0080010e                PumpID
+                0x0080011c                ActiveNozzle
+                0x0080010f                IsStatusReceived
+                0x00800114                IsTotalizerACK
+                0x0080011b                WayneRxPumpID
+                0x00800112                IsTotalizer
+                0x00800116                iPoolingID
+                0x00800124                IsRFID
+                0x0080011a                WayneReply
+                0x00800111                IsTransaction
+                0x00800110                IsMoneyReceived
+                0x00800117                txPumpID
+                0x0080011d                IsPacketReceived
+                0x0080011e                PacketInfo
+                0x00800126                SequencePool
+                0x00800119                MsgInfo
+                0x00800113                IsStopPoolSequence
+ .bss           0x0080013b        0x0 lcdn.o
+ .bss           0x0080013b        0x0 spi.o
+ .bss           0x0080013b        0x0 UART.o
+ .bss           0x0080013b        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodqi4.o)
+ .bss           0x0080013b        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x0080013b        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x0080013b        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ .bss           0x0080013b        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+ .bss           0x0080013b        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x0080013b        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(sprintf_p.o)
+ .bss           0x0080013b        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .bss           0x0080013b        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .bss           0x0080013b        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .bss           0x0080013b        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .bss           0x0080013b        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .bss           0x0080013b        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_prologue.o)
+ .bss           0x0080013b        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_epilogue.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x0080013b      0x2fc no6.o
+                0x0080013b                rxPumpId
+                0x0080013c                TDelayNextPump
+                0x0080013d                WayneRxBuffer
+                0x0080018d                CMDResponse
+                0x0080018e                Com0Buffer
+                0x008001c0                __command
+                0x00800256                __spi_istransmit
+                0x00800257                strVolume
+                0x00800261                ScanPumpMax
+                0x00800262                __spi_i
+                0x00800263                strSerial1
+                0x00800277                nSend
+                0x00800278                strCurrentMoney
+                0x00800282                CommandSeqID
+                0x0080028a                IsRequestTransInfo
+                0x0080029a                __spi_isstart
+                0x0080029b                zPumpStatus
+                0x008002ab                __command_flag
+                0x008002ac                strUnitPrice
+                0x008002b6                TPoolTimeout
+                0x008002b7                __command_set
+                0x008002b8                strSerial
+                0x008002cc                PumpLock
+                0x008002dc                TGradeId
+                0x008002dd                rxNozzle
+                0x008002de                TimWatchSequence
+                0x008002df                PumpAck
+                0x008002e0                NozzleId
+                0x008002e1                strSend
+                0x008002f5                __spi_ismessage
+                0x008002f6                GradeId
+                0x008002f7                PumpTotalizer
+                0x008003ab                strAmount
+                0x008003b5                PumpStatus
+                0x008003c5                xCRC
+                0x008003c7                __package
+                0x008003f9                iSend
+                0x008003fa                strRFID
+                0x00800403                zDataBuffer
+                0x0080040f                TimReceive
+                0x00800411                BlinkRate
+                0x00800412                StatusPump
+                0x00800413                IsRequestTotalizerInfo
+                0x00800423                TimSend
+                0x00800425                NoPumpCount
+                0x00800435                nNoPump
+                0x00800436                SequenceTimeout
+                0x00800437                PROVIDE (__bss_end, .)
+                0x00003834                __data_load_start = LOADADDR (.data)
+                0x00003842                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800437        0x0
+                0x00800437                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800437                PROVIDE (__noinit_end, .)
+                0x00800437                _end = .
+                0x00800437                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000       0x1f
+ *(.eeprom*)
+ .eeprom        0x00810000       0x1f no6.o
+                0x0081000a                DefPoolTimeout
+                0x00810003                DefPumpMaxCount
+                0x00810008                DefNoPumpCountMax
+                0x00810002                DefDigitSize
+                0x0081001e                DefHGMode
+                0x00810005                DefBaudrate
+                0x0081000c                DefSequenceTimeout
+                0x00810000                DefIFType
+                0x0081000d                DefPumpID
+                0x0081000b                DefDelayNextPump
+                0x00810004                DefTerminalDebug
+                0x00810009                DefSendCount
+                0x00810007                DefMaxPumpPooling
+                0x00810001                DefStandaloneType
+                0x0081001d                DefNozzleCount
+                0x0081001f                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x60
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 no6.o
+ .debug_aranges
+                0x00000020       0x20 spi.o
+ .debug_aranges
+                0x00000040       0x20 UART.o
+
+.debug_pubnames
+                0x00000000      0xbf9
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000      0xa8b no6.o
+ .debug_pubnames
+                0x00000a8b       0xfd spi.o
+ .debug_pubnames
+                0x00000b88       0x71 UART.o
+
+.debug_info     0x00000000     0x40b0
+ *(.debug_info)
+ .debug_info    0x00000000     0x3a95 no6.o
+ .debug_info    0x00003a95        0x0 lcdn.o
+ .debug_info    0x00003a95      0x279 spi.o
+ .debug_info    0x00003d0e      0x3a2 UART.o
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0x5af
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x3ac no6.o
+ .debug_abbrev  0x000003ac        0x1 lcdn.o
+ .debug_abbrev  0x000003ad       0xc4 spi.o
+ .debug_abbrev  0x00000471      0x13e UART.o
+
+.debug_line     0x00000000     0x30bf
+ *(.debug_line)
+ .debug_line    0x00000000     0x2c2d no6.o
+ .debug_line    0x00002c2d       0x24 lcdn.o
+ .debug_line    0x00002c51      0x14e spi.o
+ .debug_line    0x00002d9f      0x320 UART.o
+
+.debug_frame    0x00000000      0x510
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x420 no6.o
+ .debug_frame   0x00000420       0x80 spi.o
+ .debug_frame   0x000004a0       0x70 UART.o
+
+.debug_str      0x00000000     0x19a4
+ *(.debug_str)
+ .debug_str     0x00000000     0x1869 no6.o
+                               0x19c1 (size before relaxing)
+ .debug_str     0x00001869       0x91 spi.o
+                                0x1a7 (size before relaxing)
+ .debug_str     0x000018fa       0xaa UART.o
+                                0x1ec (size before relaxing)
+
+.debug_loc      0x00000000     0x2481
+ *(.debug_loc)
+ .debug_loc     0x00000000     0x20e2 no6.o
+ .debug_loc     0x000020e2       0x57 spi.o
+ .debug_loc     0x00002139      0x348 UART.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(no6.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000      0x420
+ .debug_ranges  0x00000000      0x420 no6.o

@@ -1,0 +1,1267 @@
+Archive member included because of file (symbol)
+
+d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mulsi3.o)
+                              UART.o (__mulsi3)
+d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodqi4.o)
+                              f_menu.o (__udivmodqi4)
+d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_divmodqi4.o)
+                              f_menu.o (__divmodqi4)
+d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+                              f_menu.o (__udivmodhi4)
+d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_divmodhi4.o)
+                              f_menu.o (__divmodhi4)
+d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodsi4.o)
+                              UART.o (__udivmodsi4)
+d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+                              d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o (exit)
+d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+                              master4.o (__do_clear_bss)
+d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(atoi.o)
+                              f_menu.o (atoi)
+d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strcpy_P.o)
+                              f_menu.o (strcpy_P)
+d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strcmp.o)
+                              f_menu.o (strcmp)
+d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(mul10.o)
+                              d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(atoi.o) (__mulhi_const_10)
+d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(sprintf_p.o)
+                              f_menu.o (sprintf_P)
+d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+                              d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(sprintf_p.o) (vfprintf)
+d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eerd_block_atmega128.o)
+                              f_menu.o (__eerd_block_m128)
+d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eerd_byte_atmega128.o)
+                              f_menu.o (__eerd_byte_m128)
+d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eerd_dword_atmega128.o)
+                              f_menu.o (__eerd_dword_m128)
+d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eewr_block_atmega128.o)
+                              f_menu.o (__eewr_block_m128)
+d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eewr_byte_atmega128.o)
+                              f_menu.o (__eewr_byte_m128)
+d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+                              d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o) (strnlen_P)
+d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen.o)
+                              d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o) (strnlen)
+d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fputc.o)
+                              d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o) (fputc)
+d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+                              d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o) (__ultoa_invert)
+
+Allocating common symbols
+Common symbol       size              file
+
+strGainPoints       0x9               f_menu.o
+strLoyCardHolder    0x1f              f_menu.o
+strPresetType       0x2               f_menu.o
+strBalanceCode      0x2               f_menu.o
+strLoyCardID        0x15              f_menu.o
+__timercount        0x1               master4.o
+strSurcharge        0xa               f_menu.o
+__sec_flag          0x1               master4.o
+strStandReceived    0x1e              f_menu.o
+__sec_sign          0x1               master4.o
+strCardHolder       0x29              f_menu.o
+strTime             0x9               f_menu.o
+LocalAccountFIP     0x5               f_menu.o
+strBalanceTypePrint
+                    0x1a              f_menu.o
+strVolume           0x9               f_menu.o
+strLoyCurrMonConsumeA
+                    0xb               f_menu.o
+CardType            0x1               f_menu.o
+strStatus           0x2               f_menu.o
+strMeterVolume      0xe               f_menu.o
+strLoyRedeemPoints  0x9               f_menu.o
+strBalanceType      0x2               f_menu.o
+strRef4             0x15              f_menu.o
+strSystemDate       0x9               f_menu.o
+strOdometer         0xa               f_menu.o
+strCorporateName    0x1f              f_menu.o
+PrintBuffer         0x191             f_menu.o
+strMOPName          0x15              f_menu.o
+strGeniusCode       0xb               f_menu.o
+AcknoledgeCommand   0x1               f_menu.o
+strPrice            0x9               f_menu.o
+PoolCmd             0x1               f_menu.o
+RecPumpData         0x1a8             f_menu.o
+strPaymentType      0x3               f_menu.o
+strInvoiceNumber    0xb               f_menu.o
+strProduct          0xf               f_menu.o
+NozzleID            0x1               f_menu.o
+strDate             0xb               f_menu.o
+__sec_count         0x1               master4.o
+strCompName         0x15              f_menu.o
+CurrentShiftDateTime
+                    0x14              f_menu.o
+CurrentShift        0x1               f_menu.o
+strFreeMessageLine2
+                    0x16              f_menu.o
+strFIP_ID           0x3               f_menu.o
+__timer             0x1               master4.o
+strCurrentTime      0x14              f_menu.o
+strKeyStamp         0xb               f_menu.o
+strSurchargeDesc    0x15              f_menu.o
+strApprovalCode     0x7               f_menu.o
+strTotalVolume      0x14              f_menu.o
+EDCType             0x1               f_menu.o
+strDescription      0x10              f_menu.o
+strFreeMessageLine3
+                    0x16              f_menu.o
+strNozzle           0x3               f_menu.o
+strLoyCurrentPoints
+                    0x9               f_menu.o
+ShiftDateTime       0x14              f_menu.o
+strSurchargeAmount  0xb               f_menu.o
+strSerialFlow       0x14              f_menu.o
+__timeout           0x1               master4.o
+strProductID        0x3               f_menu.o
+strSystemTime       0x9               f_menu.o
+strRef3             0x15              f_menu.o
+strFreeMessageLine1
+                    0x16              f_menu.o
+strTotalMoney       0x14              f_menu.o
+strPrint            0x2d              f_menu.o
+strMeterAmount      0xe               f_menu.o
+strIslandID         0x3               f_menu.o
+strLicPlate         0xb               f_menu.o
+strDeltaVolume      0xf               f_menu.o
+strPrevPoints       0x9               f_menu.o
+rcv_trans           0x26c             f_menu.o
+strCardID           0x15              f_menu.o
+strRef2             0x15              f_menu.o
+strAmount           0xb               f_menu.o
+IsMessage03         0x1               f_menu.o
+strDateTime         0x14              f_menu.o
+PoolMsg             0x1               f_menu.o
+IncomingTransaction
+                    0x2               f_menu.o
+strFreeMessageLine4
+                    0x16              f_menu.o
+AcknoledgePump      0x1               f_menu.o
+strLoyCurrMonConsumeV
+                    0xb               f_menu.o
+strBalance          0x12              f_menu.o
+strCorporateID      0x15              f_menu.o
+strBalanceValue     0xe               f_menu.o
+strDeltaMoney       0xf               f_menu.o
+strVoucherNum       0x15              f_menu.o
+strRFID             0xa               f_menu.o
+strRestoreCode      0xb               f_menu.o
+strMOPType          0x2               f_menu.o
+strShift            0x2               f_menu.o
+strReceiptNum       0x7               f_menu.o
+strAprovalCode      0x7               f_menu.o
+TimSend             0x1               f_menu.o
+strLoyExpiry        0xb               f_menu.o
+strPrintCount       0x3               f_menu.o
+__sec_par           0x1               master4.o
+strTranNo           0x7               f_menu.o
+IsPowerOn           0x1               master4.o
+strRef1             0x15              f_menu.o
+strCardType         0x10              f_menu.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+LOAD master4.o
+LOAD f_menu.o
+LOAD LCD.o
+LOAD KEYPAD.o
+LOAD SPI.o
+LOAD RTC.o
+LOAD UART.o
+LOAD d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a
+LOAD d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a
+LOAD d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000    0x15e0c
+ *(.vectors)
+ .vectors       0x00000000       0x8c d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table
+                0x0000008c      0x1f2 f_menu.o
+ *(.progmem*)
+ .progmem.data  0x0000027e       0x32 master4.o
+ .progmem.data  0x000002b0     0x2280 f_menu.o
+                0x000002b0                __prodloc
+                0x000002f1                strDispenserName3
+                0x000002bc                __prntloc
+                0x000002d4                __hostloc
+                0x000002fc                strDispenserName4
+                0x00000304                strDispenserName5
+                0x000002c8                __prntlmt
+                0x000002e8                strDispenserName2
+                0x000002ce                __prntstr
+                0x000002e4                strDispenserName1
+                0x000002da                MaxKeyHit
+                0x00000307                DefListDispenserName
+ .progmem.data  0x00002530       0x54 LCD.o
+ .progmem.data  0x00002584       0x82 KEYPAD.o
+                0x000025fc                __maxchar
+                0x00002584                __alphanum
+                0x00002606                . = ALIGN (0x2)
+                0x00002606                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00002606        0x0 linker stubs
+ *(.trampolines*)
+                0x00002606                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00002606                __ctors_start = .
+ *(.ctors)
+                0x00002606                __ctors_end = .
+                0x00002606                __dtors_start = .
+ *(.dtors)
+                0x00002606                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00002606        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x00002606                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00002606        0xc d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00002612       0x1a d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x00002612                __do_copy_data
+ .init4         0x0000262c       0x10 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+                0x0000262c                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000263c        0x8 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ *(.init9)
+ *(.text)
+ .text          0x00002644        0x4 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x00002644                __vector_22
+                0x00002644                __vector_28
+                0x00002644                __vector_1
+                0x00002644                __vector_32
+                0x00002644                __vector_34
+                0x00002644                __vector_24
+                0x00002644                __bad_interrupt
+                0x00002644                __vector_6
+                0x00002644                __vector_31
+                0x00002644                __vector_3
+                0x00002644                __vector_23
+                0x00002644                __vector_25
+                0x00002644                __vector_11
+                0x00002644                __vector_13
+                0x00002644                __vector_19
+                0x00002644                __vector_7
+                0x00002644                __vector_27
+                0x00002644                __vector_5
+                0x00002644                __vector_33
+                0x00002644                __vector_4
+                0x00002644                __vector_9
+                0x00002644                __vector_2
+                0x00002644                __vector_21
+                0x00002644                __vector_15
+                0x00002644                __vector_29
+                0x00002644                __vector_8
+                0x00002644                __vector_26
+                0x00002644                __vector_14
+                0x00002644                __vector_10
+                0x00002644                __vector_16
+                0x00002644                __vector_20
+ .text          0x00002648      0x172 master4.o
+                0x000027b0                main
+                0x000026f8                SystemInit
+                0x00002648                systemOnReset
+ .text          0x000027ba    0x12278 f_menu.o
+                0x00011b38                FMenuReprint
+                0x00004450                CreateReport
+                0x00012726                FreePrinting
+                0x00002c5c                charToHex
+                0x000032ee                IdentifyMessage
+                0x00002922                ScanEDCFlow
+                0x00008b6a                InitPrinter
+                0x00002f50                StrPosPaste
+                0x00002db6                InitStandalone
+                0x0000c6a8                _menu_pump
+                0x00002aa2                ScanRFIDFlow
+                0x0000522e                ResetTotalizer
+                0x00004e6e                GetTotalizerMoney
+                0x00009c56                FSettingHost
+                0x00008d1a                PrintLogo
+                0x00002cee                UpdateClientIP
+                0x00004830                PstrCopy
+                0x00004866                SpaceOnly
+                0x00003590                SetIncomingTransStatus
+                0x0000c14c                SendSlaveCommand
+                0x0000dca0                FSettingProduct
+                0x0000efba                SetBaudRate
+                0x00009c5e                _menu_printer
+                0x00004c5e                procMessage57
+                0x0000fef0                sendMessage92
+                0x000086f4                GenerateStandaloneTransData
+                0x00008b24                SendPrint
+                0x00009978                _menu_host
+                0x0000358e                GeniusSendPumpPreset
+                0x00003586                TestUserInput
+                0x00002cf4                UpdateSeqNum
+                0x00006200                WrapCode
+                0x0000477e                IsMoreThan
+                0x00002d76                TestLocalAccount
+                0x00008cba                PrintDoubleHeight
+                0x0000452c                AddList
+                0x0001242a                sendMessage10
+                0x000027ba                __vector_12
+                0x00002d1a                StringCopy
+                0x00005148                SaveTotalizerCurrentToLast
+                0x00002cf2                UpdateIFT_ID
+                0x00003718                leadingZero
+                0x000060f6                CountTotalizerSatus
+                0x0000471a                IsMinus
+                0x00008244                procMessage99
+                0x000031e0                FillChar
+                0x0000c17a                FSettingPumpID
+                0x0000a710                FMenuShift
+                0x00002db8                DisplayQueueFIP
+                0x00005a42                NormalizeOverflow
+                0x00006904                FormatPrice
+                0x0000358c                GeniusSendResumePump
+                0x0000429e                SelectMark
+                0x00004ee2                GetTransactionMoney
+                0x00003476                Chr
+                0x00002c42                Str
+                0x00002dc0                systemEDC
+                0x00002e60                FCloseDay
+                0x0000ee42                FMenuPassword
+                0x0000fef8                sendMessage90
+                0x00009f52                _menu_pumpprodinput
+                0x0000c702                FMenuPumpType
+                0x0000b914                FSettingPumpPooling
+                0x0000348c                FTestCalculation
+                0x00003174                procMessage81
+                0x00011b30                sendMessage28
+                0x0000e094                FMenuSettingFooter
+                0x000031fa                ProcMessage91
+                0x00004318                SumChecksum
+                0x000058dc                CalcMultiply
+                0x00004bca                RemSpaceLag
+                0x000060c2                AddCharLag
+                0x0001271e                sendMessage04
+                0x00008dc2                procMessage11
+                0x0000a3b4                FSettingDec
+                0x000035f4                GetIncomingTransStatus
+                0x0000f010                FSettingSystem
+                0x000037e8                MasterReset
+                0x00002c3c                High
+                0x00006152                RemoveChar
+                0x00004016                GetFIPAddr
+                0x00011db6                FMenuAdmin
+                0x0000811e                __vector_30
+                0x000028a6                PrintUpdatePrintedTransNum
+                0x00002c88                strToInt
+                0x00002f0c                GetLocAccStatus
+                0x00002f90                CharPosCopy
+                0x00004240                SaveToEEPROM
+                0x00002dc2                GeniusCalc
+                0x000034b6                GetBorderValue
+                0x00002f1c                FTestRemZero
+                0x000100d2                sendMessage58
+                0x00003588                GeniusSendPumpStatus
+                0x00002c36                systemRestart
+                0x00002e64                FMenuSettingPassword
+                0x000052de                AddZeroLag
+                0x0000348e                GetTabSpace
+                0x00008c8e                PrintNormalHeight
+                0x0000e72c                FMenuAdminSettings
+                0x00004a02                FormatDate
+                0x00005fa2                StrAlignCenter
+                0x0000bd72                DisplayIdle
+                0x00005ed2                systemGeniusProtocol
+                0x0000e83a                FMenuMaster
+                0x00002912                SendPoolingCommand
+                0x00006920                systemGenerateReport
+                0x000090ac                _scr_pump
+                0x000068cc                FormatVolume
+                0x00004b34                RemSpaceLead
+                0x00009514                FCloseShift
+                0x0000d018                __vector_17
+                0x000112dc                FMenuChangeMOP
+                0x00004d78                clearString
+                0x00004184                GetTotalizerData
+                0x00011f6c                sendMessage22
+                0x000141f8                SaveConfigParameter
+                0x00004aa4                RemZeroLead
+                0x00003f60                SetDispenser
+                0x00002d78                BackLightTrig
+                0x00005314                StrCalc
+                0x0000358a                GeniusSendStopPump
+                0x0000903e                ValidateGeniusCode
+                0x0000ab70                FSettingDatetime
+                0x00004358                IsGeniusCommand
+                0x00008ce6                PaperCut
+                0x00002fba                procMessage09
+                0x00014616                FMenuIdle
+                0x0000362c                ComposeDatetime
+                0x00011f74                FMenuLoyalty
+                0x00002e6a                IncValue
+                0x00002e26                CountNoPumpSatus
+                0x00004134                GetPumpID
+                0x00004da0                AddZeroLead
+                0x0000c86a                FSettingPump
+                0x0000c042                SendEDCMessage
+                0x00002c2c                system_beep
+                0x0000cecc                ScanStandaloneFlow
+                0x000086b6                GetMessageID
+                0x00011f64                sendMessage24
+                0x000067a0                FormatDecimal
+                0x00002dba                ShowMessage
+                0x00013dfc                SendConfigParamater
+                0x0000f48a                InitComport
+                0x00002d8e                GetBaudrate
+                0x00009376                DisplayScreenIdle
+                0x00002e8e                zeroIP
+                0x00009230                FTestChar
+                0x0000340e                RawToStr
+                0x000068b0                FormatTotalizerMoney
+                0x00012e70                PrintIdle
+                0x00002e7c                DecValue
+                0x00007e16                GenerateTransactionNum
+                0x00002e68                menu_product
+                0x00004724                RemoveMinus
+                0x00003050                procMessage23
+                0x00002d46                StringCopyPos
+                0x0000ae94                FMenuSettingServerIP
+                0x00005cb6                GeniusSendLastTransaction
+                0x00002cf6                ViewCardID
+                0x00005ff6                AddCharLead
+                0x000112d4                sendMessage32
+                0x00008a7c                PrintStandalone
+                0x00005bae                AddSpaceLag
+                0x00002dbc                CalcLRC
+                0x00004592                ClearList
+                0x00008ffa                ValidateRestoreCode
+                0x00002f9a                procMessage00
+                0x00012438                InitializeConnection
+                0x00003466                CalcPlus
+                0x00007dc2                UpdateCardID
+                0x000100da                sendMessage56
+                0x000028a2                RePrintStandalone
+                0x000045ba                CalcSegmen
+                0x000100e2                FMenuLocalAccount
+                0x00005be4                GetProductName
+                0x00003752                procMessage21
+                0x00006552                GeneratePrintInit
+                0x000033d2                StrToRaw
+                0x000047fe                IsZerroAll
+                0x00002c9a                intToStr
+                0x000068e8                FormatMoney
+                0x00004ea8                GetTotalizerVolume
+                0x0000f57c                IFTSendMessage
+                0x0000345a                CalcMinus
+                0x0000688a                NormalizeDecimal
+                0x00002b46                ScanCommand
+                0x000028a8                GetPumpStatusLabel
+                0x000062d4                GenerateKeyStamp
+                0x0000bff8                systemMaster
+                0x0000a7cc                system_stop
+                0x0000a7fc                systemForceType
+                0x000048a0                RemDecimal
+                0x0000a1d2                FMenuPumpLabel
+                0x00002b4a                ConfigProtocol
+                0x0000a1ac                _menu_pumpprod
+                0x00008024                GeniusProtocol
+                0x00004f56                GetTransactionVolume
+                0x00009448                DisplayPumpStatus
+                0x0000fc04                sendMessage98
+                0x0000a83a                _menu_datetime
+                0x00013df2                systemPrinting
+                0x0000c02c                EDCSendByte
+                0x0000f2f8                FMenuSettings
+                0x0000cd8a                StoreStandaloneTotalizerData
+                0x000063fc                GenerateGeniusCode
+                0x0000352e                InserBorder
+                0x0000ab78                menu_FIP
+                0x000048e2                GetProductPrice
+                0x00005ae0                AddSpaceLead
+                0x00007ef4                GetParameter
+                0x0000fee8                sendMessage94
+                0x00006640                FormatCurrency
+                0x0000bd3e                DisplayTicker
+                0x0000c8f2                StoreStandaloneTransData
+                0x00009f4a                FSettingPrinter
+                0x0000d6d2                FSettingOperator
+                0x00002c38                Low
+                0x000092c8                DisplayDateTime
+                0x0000c69e                _menu_pumpid
+                0x00003482                Ord
+                0x000046e4                GetMinusPos
+                0x00006894                FormatTotalizerVolume
+                0x00004080                UpdateStandaloneStatus
+                0x0000fc52                FMenuTicket
+                0x00002e22                FSubMenuAdmin
+                0x00002f1e                StrPosCopy
+                0x00002e62                FLockPump
+                0x0000e3e0                FMenuSettingHeader
+                0x00011ea0                FMenuAuthorization
+                0x00004fca                SetTotalizerData
+                0x0000c00e                systemSlave
+                0x0000ff00                FMenuEDCTransaction
+                0x00002b04                __vector_18
+                0x000043e2                Pos
+                0x000033b8                Tab
+                0x000145ca                systemConfigProtocol
+                0x0000b39e                FMenuSettingClientIP
+                0x000091bc                FViewFreeMessage
+                0x0000b8a8                DisplayStandaloneSequence
+                0x0000d08a                UserInput
+                0x00008b54                CarriegeReturn
+                0x00003ffc                InitMemory
+                0x00002cf0                UpdateServerIP
+                0x00002aa0                ScanHiddenKeyFlow
+ .text          0x00014a32      0x2be LCD.o
+                0x00014b58                lcd_xy
+                0x00014be8                lcd_printf
+                0x00014c42                lcd_clear
+                0x00014b3e                lcd_string
+                0x00014c86                lcd_cgram
+                0x00014b90                lcd_print
+                0x00014a84                lcd_init
+                0x00014b0c                _lcd
+                0x00014c74                lcd_put
+                0x00014cc2                ClearMem
+                0x00014a32                lcd_command
+ .text          0x00014cf0      0x2c8 KEYPAD.o
+                0x00014e3e                _table_alphanum
+                0x00014d4a                _key_crr
+                0x00014cf0                _key_hit
+                0x00014d8e                _key_btn
+                0x00014ed8                _key_scan
+ .text          0x00014fb8       0x5e SPI.o
+                0x0001500c                _spi
+                0x00014fb8                _spi_init
+                0x00014fde                _spi_enable
+ .text          0x00015016      0x30a RTC.o
+                0x0001519a                _datetime
+                0x000152da                _day
+                0x00015016                _rtc
+ .text          0x00015320      0x362 UART.o
+                0x0001547e                Int2Str
+                0x000153dc                uart_print
+                0x0001555c                Str2Int
+                0x0001537c                uart_init
+                0x00015320                uart_baudrate
+                0x0001542c                uart_printf
+                0x000153a2                uart
+ .text          0x00015682        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mulsi3.o)
+ .text          0x00015682        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodqi4.o)
+ .text          0x00015682        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_divmodqi4.o)
+ .text          0x00015682        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+ .text          0x00015682        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_divmodhi4.o)
+ .text          0x00015682        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodsi4.o)
+ .text          0x00015682        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .text          0x00015682        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .text          0x00015682        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(atoi.o)
+ .text          0x00015682        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strcpy_P.o)
+ .text          0x00015682        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strcmp.o)
+ .text          0x00015682        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(mul10.o)
+ .text          0x00015682        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(sprintf_p.o)
+ .text          0x00015682        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+ .text          0x00015682        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eerd_block_atmega128.o)
+ .text          0x00015682        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eerd_byte_atmega128.o)
+ .text          0x00015682        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eerd_dword_atmega128.o)
+ .text          0x00015682        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eewr_block_atmega128.o)
+ .text          0x00015682        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eewr_byte_atmega128.o)
+ .text          0x00015682        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .text          0x00015682        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .text          0x00015682        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .text          0x00015682        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+                0x00015682                . = ALIGN (0x2)
+ *(.text.*)
+ .text.libgcc   0x00015682       0x3e d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mulsi3.o)
+                0x00015682                __mulsi3
+ .text.libgcc   0x000156c0       0x18 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodqi4.o)
+                0x000156c0                __udivmodqi4
+ .text.libgcc   0x000156d8       0x1a d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_divmodqi4.o)
+                0x000156d8                __divmodqi4
+ .text.libgcc   0x000156f2       0x28 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+                0x000156f2                __udivmodhi4
+ .text.libgcc   0x0001571a       0x26 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_divmodhi4.o)
+                0x0001571a                __divmodhi4
+                0x0001571a                _div
+ .text.libgcc   0x00015740       0x44 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodsi4.o)
+                0x00015740                __udivmodsi4
+ .text.libgcc   0x00015784        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x00015784        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .text.avr-libc
+                0x00015784       0x3c d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(atoi.o)
+                0x00015784                atoi
+ .text.avr-libc
+                0x000157c0        0xe d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strcpy_P.o)
+                0x000157c0                strcpy_P
+ .text.avr-libc
+                0x000157ce       0x12 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strcmp.o)
+                0x000157ce                strcmp
+ .text.avr-libc
+                0x000157e0       0x10 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(mul10.o)
+                0x000157e0                __mulhi_const_10
+ .text.avr-libc
+                0x000157f0       0x62 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(sprintf_p.o)
+                0x000157f0                sprintf_P
+ .text.avr-libc
+                0x00015852      0x40c d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+                0x00015852                vfprintf
+ .text.avr-libc
+                0x00015c5e       0x20 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eerd_block_atmega128.o)
+                0x00015c62                __eerd_blraw_m128
+                0x00015c5e                __eerd_block_m128
+ .text.avr-libc
+                0x00015c7e       0x10 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eerd_byte_atmega128.o)
+                0x00015c7e                __eerd_byte_m128
+ .text.avr-libc
+                0x00015c8e        0xc d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eerd_dword_atmega128.o)
+                0x00015c8e                __eerd_dword_m128
+                0x00015c8e                __eerd_float_m128
+ .text.avr-libc
+                0x00015c9a       0x14 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eewr_block_atmega128.o)
+                0x00015c9a                __eewr_block_m128
+ .text.avr-libc
+                0x00015cae       0x1a d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eewr_byte_atmega128.o)
+                0x00015cb0                __eewr_r18_m128
+                0x00015cae                __eewr_byte_m128
+ .text.avr-libc
+                0x00015cc8       0x16 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+                0x00015cc8                strnlen_P
+ .text.avr-libc
+                0x00015cde       0x16 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen.o)
+                0x00015cde                strnlen
+ .text.avr-libc
+                0x00015cf4       0x58 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fputc.o)
+                0x00015cf4                fputc
+ .text.avr-libc
+                0x00015d4c       0xbc d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+                0x00015d4c                __ultoa_invert
+                0x00015e08                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00015e08        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+                0x00015e08                exit
+                0x00015e08                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00015e08        0x4 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00015e0c                _etext = .
+
+.data           0x00800100       0x5c load address 0x00015e0c
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ .data          0x00800100        0x0 master4.o
+ .data          0x00800100       0x5c f_menu.o
+                0x00800123                IsSetPumpType
+                0x00800113                ReprintReady
+                0x00800101                IsNewPumpStatus
+                0x00800102                strPumpStatus
+                0x00800100                IFType
+                0x00800124                MsgCode
+ .data          0x0080015c        0x0 LCD.o
+ .data          0x0080015c        0x0 KEYPAD.o
+ .data          0x0080015c        0x0 SPI.o
+ .data          0x0080015c        0x0 RTC.o
+ .data          0x0080015c        0x0 UART.o
+ .data          0x0080015c        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mulsi3.o)
+ .data          0x0080015c        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodqi4.o)
+ .data          0x0080015c        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_divmodqi4.o)
+ .data          0x0080015c        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+ .data          0x0080015c        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_divmodhi4.o)
+ .data          0x0080015c        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodsi4.o)
+ .data          0x0080015c        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .data          0x0080015c        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .data          0x0080015c        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(atoi.o)
+ .data          0x0080015c        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strcpy_P.o)
+ .data          0x0080015c        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strcmp.o)
+ .data          0x0080015c        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(mul10.o)
+ .data          0x0080015c        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(sprintf_p.o)
+ .data          0x0080015c        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+ .data          0x0080015c        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eerd_block_atmega128.o)
+ .data          0x0080015c        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eerd_byte_atmega128.o)
+ .data          0x0080015c        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eerd_dword_atmega128.o)
+ .data          0x0080015c        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eewr_block_atmega128.o)
+ .data          0x0080015c        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eewr_byte_atmega128.o)
+ .data          0x0080015c        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .data          0x0080015c        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .data          0x0080015c        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .data          0x0080015c        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x0080015c                . = ALIGN (0x2)
+                0x0080015c                _edata = .
+                0x0080015c                PROVIDE (__data_end, .)
+
+.bss            0x0080015c      0xb5d
+                0x0080015c                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x0080015c        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ .bss           0x0080015c        0x0 master4.o
+ .bss           0x0080015c      0x156 f_menu.o
+                0x008001bb                Shift
+                0x0080015f                CurrentPumpStatus
+                0x00800191                TimTicker
+                0x008001a2                IsMessage11
+                0x008001b7                cmdPrint
+                0x008001bf                PumpID
+                0x00800186                IsGenerateReport
+                0x0080017f                IsReprintTicket
+                0x0080015c                PumpCountMax
+                0x00800198                IsViewFillingFIP
+                0x008001b9                StatusEDC
+                0x00800190                IsMenuFIPInit
+                0x00800189                char_count
+                0x00800184                IsControlPooling
+                0x00800192                TimPressed
+                0x008001a6                IsMessage10
+                0x00800199                IsSendMessageEDC
+                0x008001a9                IsMessage91
+                0x008001b6                IsBusyFreePrinting
+                0x008001a8                IsMessage81
+                0x0080019a                IsRFIDDetected
+                0x008001a4                IsMessage23
+                0x008001ad                IsNoTransaction
+                0x0080015d                ActivePump
+                0x0080018f                nLocalAccount
+                0x0080019f                IsStandaloneTrans
+                0x008001b4                IsBusyIdlePrinting
+                0x008001ac                IsAdvanzStartupInfo
+                0x00800196                IsClearMessage
+                0x00800185                IsConfigFlow
+                0x00800197                IsWaitDisplay
+                0x00800188                IsNewPacket
+                0x008001af                IsBusyMsg11
+                0x00800180                iSequencePooling
+                0x008001b2                ConfigCommand
+                0x008001a1                IsMessage99
+                0x008001a5                IsMessage09
+                0x008001bc                TimLocAcc
+                0x0080015e                DispenserBrand
+                0x0080019c                IsPrintApprovalCode
+                0x008001b1                IsTotalizerReceived
+                0x008001a3                IsMessage21
+                0x00800193                TimDisplay
+                0x0080019e                IsStandAloneDetected
+                0x0080016f                PrintedStatus
+                0x008001ab                IsCompleteFilling
+                0x00800195                IsShowMessage
+                0x008001b5                IsBusyPrint
+                0x0080018d                LengthMessage81
+                0x008001aa                IsFreePrinting
+                0x008001b0                SeqNum
+                0x0080018b                transLength
+                0x008001b3                IsPrintERROR
+                0x00800183                IsPoolingRestarted
+                0x008001be                TimBeep
+                0x008001a7                IsMessage57
+                0x008001a0                IsMessage00
+                0x008001ae                IsPrinting
+                0x00800187                IsFinishPrintingTotalizer
+                0x00800194                TimLocalAccount
+                0x008001ba                MOPType
+                0x0080019b                IsEDCApproved
+                0x008001bd                ProcTimeOut
+                0x0080019d                IsVoidTransaction
+                0x00800182                IsStandaloneAcknoledge
+                0x008001b8                TimPrintBusy
+                0x00800181                IsNewPoolingSequence
+ .bss           0x008002b2        0x0 LCD.o
+ .bss           0x008002b2        0x7 KEYPAD.o
+                0x008002b8                IsKeyPressed
+                0x008002b5                __pad_loop
+                0x008002b3                __key_light
+                0x008002b6                __key_shift
+                0x008002b7                __key_shfcnt
+                0x008002b4                __key_lgtcnt
+                0x008002b2                __lock_num
+ .bss           0x008002b9        0x0 SPI.o
+ .bss           0x008002b9        0x0 RTC.o
+ .bss           0x008002b9        0x0 UART.o
+ .bss           0x008002b9        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mulsi3.o)
+ .bss           0x008002b9        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodqi4.o)
+ .bss           0x008002b9        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_divmodqi4.o)
+ .bss           0x008002b9        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+ .bss           0x008002b9        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_divmodhi4.o)
+ .bss           0x008002b9        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodsi4.o)
+ .bss           0x008002b9        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .bss           0x008002b9        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .bss           0x008002b9        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(atoi.o)
+ .bss           0x008002b9        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strcpy_P.o)
+ .bss           0x008002b9        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strcmp.o)
+ .bss           0x008002b9        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(mul10.o)
+ .bss           0x008002b9        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(sprintf_p.o)
+ .bss           0x008002b9        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+ .bss           0x008002b9        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eerd_block_atmega128.o)
+ .bss           0x008002b9        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eerd_byte_atmega128.o)
+ .bss           0x008002b9        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eerd_dword_atmega128.o)
+ .bss           0x008002b9        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eewr_block_atmega128.o)
+ .bss           0x008002b9        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(eewr_byte_atmega128.o)
+ .bss           0x008002b9        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .bss           0x008002b9        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .bss           0x008002b9        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .bss           0x008002b9        0x0 d:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x008002b9        0x8 master4.o
+                0x008002b9                __timercount
+                0x008002ba                __sec_flag
+                0x008002bb                __sec_sign
+                0x008002bc                __sec_count
+                0x008002bd                __timer
+                0x008002be                __timeout
+                0x008002bf                __sec_par
+                0x008002c0                IsPowerOn
+ COMMON         0x008002c1      0x9f8 f_menu.o
+                0x008002c1                strGainPoints
+                0x008002ca                strLoyCardHolder
+                0x008002e9                strPresetType
+                0x008002eb                strBalanceCode
+                0x008002ed                strLoyCardID
+                0x00800302                strSurcharge
+                0x0080030c                strStandReceived
+                0x0080032a                strCardHolder
+                0x00800353                strTime
+                0x0080035c                LocalAccountFIP
+                0x00800361                strBalanceTypePrint
+                0x0080037b                strVolume
+                0x00800384                strLoyCurrMonConsumeA
+                0x0080038f                CardType
+                0x00800390                strStatus
+                0x00800392                strMeterVolume
+                0x008003a0                strLoyRedeemPoints
+                0x008003a9                strBalanceType
+                0x008003ab                strRef4
+                0x008003c0                strSystemDate
+                0x008003c9                strOdometer
+                0x008003d3                strCorporateName
+                0x008003f2                PrintBuffer
+                0x00800583                strMOPName
+                0x00800598                strGeniusCode
+                0x008005a3                AcknoledgeCommand
+                0x008005a4                strPrice
+                0x008005ad                PoolCmd
+                0x008005ae                RecPumpData
+                0x00800756                strPaymentType
+                0x00800759                strInvoiceNumber
+                0x00800764                strProduct
+                0x00800773                NozzleID
+                0x00800774                strDate
+                0x0080077f                strCompName
+                0x00800794                CurrentShiftDateTime
+                0x008007a8                CurrentShift
+                0x008007a9                strFreeMessageLine2
+                0x008007bf                strFIP_ID
+                0x008007c2                strCurrentTime
+                0x008007d6                strKeyStamp
+                0x008007e1                strSurchargeDesc
+                0x008007f6                strApprovalCode
+                0x008007fd                strTotalVolume
+                0x00800811                EDCType
+                0x00800812                strDescription
+                0x00800822                strFreeMessageLine3
+                0x00800838                strNozzle
+                0x0080083b                strLoyCurrentPoints
+                0x00800844                ShiftDateTime
+                0x00800858                strSurchargeAmount
+                0x00800863                strSerialFlow
+                0x00800877                strProductID
+                0x0080087a                strSystemTime
+                0x00800883                strRef3
+                0x00800898                strFreeMessageLine1
+                0x008008ae                strTotalMoney
+                0x008008c2                strPrint
+                0x008008ef                strMeterAmount
+                0x008008fd                strIslandID
+                0x00800900                strLicPlate
+                0x0080090b                strDeltaVolume
+                0x0080091a                strPrevPoints
+                0x00800923                rcv_trans
+                0x00800b8f                strCardID
+                0x00800ba4                strRef2
+                0x00800bb9                strAmount
+                0x00800bc4                IsMessage03
+                0x00800bc5                strDateTime
+                0x00800bd9                PoolMsg
+                0x00800bda                IncomingTransaction
+                0x00800bdc                strFreeMessageLine4
+                0x00800bf2                AcknoledgePump
+                0x00800bf3                strLoyCurrMonConsumeV
+                0x00800bfe                strBalance
+                0x00800c10                strCorporateID
+                0x00800c25                strBalanceValue
+                0x00800c33                strDeltaMoney
+                0x00800c42                strVoucherNum
+                0x00800c57                strRFID
+                0x00800c61                strRestoreCode
+                0x00800c6c                strMOPType
+                0x00800c6e                strShift
+                0x00800c70                strReceiptNum
+                0x00800c77                strAprovalCode
+                0x00800c7e                TimSend
+                0x00800c7f                strLoyExpiry
+                0x00800c8a                strPrintCount
+                0x00800c8d                strTranNo
+                0x00800c94                strRef1
+                0x00800ca9                strCardType
+                0x00800cb9                PROVIDE (__bss_end, .)
+                0x00015e0c                __data_load_start = LOADADDR (.data)
+                0x00015e68                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800cb9        0x0
+                0x00800cb9                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800cb9                PROVIDE (__noinit_end, .)
+                0x00800cb9                _end = .
+                0x00800cb9                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000      0x85d
+ *(.eeprom*)
+ .eeprom        0x00810000      0x85d f_menu.o
+                0x00810032                DefPrintScrollSpace
+                0x00810044                DefCurrencyMark
+                0x008100c0                DefProductName
+                0x00810151                DefLoyaltyLabel
+                0x00810001                DefSpvPassword
+                0x00810030                DefPrinterType
+                0x0081022d                DefHeaderFooter
+                0x00810028                DefClientIP
+                0x0081005a                DefNozzleMap
+                0x00810849                DefLastShiftDateTime
+                0x00810052                DefPumpLabel
+                0x0081014d                DefPoolingSendTimeout
+                0x008103c9                TotalVolume
+                0x0081002c                DefServerIP
+                0x008103c8                DefHGMode
+                0x00810033                DefPrintAutoCut
+                0x00810609                TotalMoney
+                0x0081003d                DefDecimalPrice
+                0x00810031                DefPrintScrollEnd
+                0x00810145                DefBaudrate
+                0x00810149                DefLocalAccountTimeout
+                0x00810150                DefSequenceTimeout
+                0x0081013c                DefDispenserBrand
+                0x00810034                DefPrintLogo
+                0x0081013a                DefPrintInitialize
+                0x0081008a                DefProductPrice
+                0x0081003c                DefNotifScreen
+                0x0081014c                DefPoolingTryResend
+                0x0081000b                DefSysPassword
+                0x0081013d                DefTransactionNumber
+                0x0081013b                DefInitIFT
+                0x0081004a                DefPumpMap
+                0x00810015                DefOperatorName
+                0x00810038                DefLogoLength
+                0x0081010e                DefBankName
+                0x00810042                DefDecimalTotalMoney
+                0x00810040                DefTransMultiply
+                0x0081014f                DefActivePump
+                0x008103c7                DefPrintMoney
+                0x00810000                DefIFT_ID
+                0x00810041                DefDecimalTotalVolume
+                0x00810144                DefShift
+                0x0081003b                DefShowDateTime
+                0x0081003e                DefDecimalVolume
+                0x0081014a                DefPoolingPumpMax
+                0x00810036                DefLogoPosition
+                0x00810045                DefMarkMap
+                0x0081003f                DefDecimalMoney
+                0x0081014b                DefPoolingNoPumpCount
+                0x00810043                DefDecimalMark
+                0x0081003a                DefConnectionHost
+                0x00810035                DefPrintSize
+                0x0081014e                DefPoolingDelayNextPump
+                0x0081085d                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0xe0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 master4.o
+ .debug_aranges
+                0x00000020       0x20 f_menu.o
+ .debug_aranges
+                0x00000040       0x20 LCD.o
+ .debug_aranges
+                0x00000060       0x20 KEYPAD.o
+ .debug_aranges
+                0x00000080       0x20 SPI.o
+ .debug_aranges
+                0x000000a0       0x20 RTC.o
+ .debug_aranges
+                0x000000c0       0x20 UART.o
+
+.debug_pubnames
+                0x00000000     0x2591
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0xb1 master4.o
+ .debug_pubnames
+                0x000000b1     0x223a f_menu.o
+ .debug_pubnames
+                0x000022eb       0xa4 LCD.o
+ .debug_pubnames
+                0x0000238f      0x125 KEYPAD.o
+ .debug_pubnames
+                0x000024b4       0x39 SPI.o
+ .debug_pubnames
+                0x000024ed       0x32 RTC.o
+ .debug_pubnames
+                0x0000251f       0x72 UART.o
+
+.debug_info     0x00000000    0x10588
+ *(.debug_info)
+ .debug_info    0x00000000      0x456 master4.o
+ .debug_info    0x00000456     0xeebe f_menu.o
+ .debug_info    0x0000f314      0x759 LCD.o
+ .debug_info    0x0000fa6d      0x41e KEYPAD.o
+ .debug_info    0x0000fe8b      0x1ac SPI.o
+ .debug_info    0x00010037      0x173 RTC.o
+ .debug_info    0x000101aa      0x3de UART.o
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0xb20
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x177 master4.o
+ .debug_abbrev  0x00000177      0x3f2 f_menu.o
+ .debug_abbrev  0x00000569      0x151 LCD.o
+ .debug_abbrev  0x000006ba      0x161 KEYPAD.o
+ .debug_abbrev  0x0000081b       0xee SPI.o
+ .debug_abbrev  0x00000909       0xe0 RTC.o
+ .debug_abbrev  0x000009e9      0x137 UART.o
+
+.debug_line     0x00000000     0xc5be
+ *(.debug_line)
+ .debug_line    0x00000000      0x332 master4.o
+ .debug_line    0x00000332     0xb306 f_menu.o
+ .debug_line    0x0000b638      0x461 LCD.o
+ .debug_line    0x0000ba99      0x34c KEYPAD.o
+ .debug_line    0x0000bde5      0x1bf SPI.o
+ .debug_line    0x0000bfa4      0x2c2 RTC.o
+ .debug_line    0x0000c266      0x358 UART.o
+
+.debug_frame    0x00000000     0x11b0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x40 master4.o
+ .debug_frame   0x00000040      0xf50 f_menu.o
+ .debug_frame   0x00000f90       0xc0 LCD.o
+ .debug_frame   0x00001050       0x60 KEYPAD.o
+ .debug_frame   0x000010b0       0x40 SPI.o
+ .debug_frame   0x000010f0       0x40 RTC.o
+ .debug_frame   0x00001130       0x80 UART.o
+
+.debug_str      0x00000000     0x5347
+ *(.debug_str)
+ .debug_str     0x00000000      0x48f master4.o
+                                0x4db (size before relaxing)
+ .debug_str     0x0000048f     0x4c76 f_menu.o
+                               0x5406 (size before relaxing)
+ .debug_str     0x00005105       0x81 LCD.o
+                                0x1c2 (size before relaxing)
+ .debug_str     0x00005186       0xb4 KEYPAD.o
+                                0x23f (size before relaxing)
+ .debug_str     0x0000523a       0x3e SPI.o
+                                0x152 (size before relaxing)
+ .debug_str     0x00005278       0x38 RTC.o
+                                0x124 (size before relaxing)
+ .debug_str     0x000052b0       0x97 UART.o
+                                0x1ea (size before relaxing)
+
+.debug_loc      0x00000000     0x6c1d
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x30 master4.o
+ .debug_loc     0x00000030     0x5e0b f_menu.o
+ .debug_loc     0x00005e3b      0x486 LCD.o
+ .debug_loc     0x000062c1      0x303 KEYPAD.o
+ .debug_loc     0x000065c4       0x72 SPI.o
+ .debug_loc     0x00006636      0x13e RTC.o
+ .debug_loc     0x00006774      0x4a9 UART.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(master4.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000      0x498
+ .debug_ranges  0x00000000      0x450 f_menu.o
+ .debug_ranges  0x00000450       0x48 KEYPAD.o
